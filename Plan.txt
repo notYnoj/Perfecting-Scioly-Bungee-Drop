@@ -1,0 +1,11 @@
+Ok, here's the plan. 
+
+problem: We need to find the maximum point at which the bungee can drop and not hit the floor (and kill our bottle :c)
+
+1. We get data and calcualte for our k (linearize if it's not an ideal spring)
+
+2. Next I program an equation and automatically get a 
+
+3. Next I integrate Raspberry Pi + a motor + an odometry pod to make it move that amount (probably a bit less)
+
+4. :D
